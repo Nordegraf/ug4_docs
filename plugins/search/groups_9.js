@@ -1,10 +1,15 @@
 var searchData=
 [
-  ['misc_20geometric_20object_20util_32526',['misc geometric object util',['../../group__lib__grid__algorithms__geom__obj__misc.html',1,'']]],
-  ['matrix_32527',['Matrix',['../../group__math__matrix.html',1,'']]],
-  ['matrixio_32528',['MatrixIO',['../../group__matrixio.html',1,'']]],
-  ['misc_20bridge_32529',['Misc Bridge',['../../group__misc__bridge.html',1,'']]],
-  ['multi_20grid_20bridge_32530',['Multi Grid Bridge',['../../group__multigrid__bridge.html',1,'']]],
-  ['math_32531',['Math',['../../group__ugbase__math.html',1,'']]],
-  ['math_20utilities_32532',['Math Utilities',['../../group__ugbase__mathutil.html',1,'']]]
+  ['lib_5falgebra_34465',['lib_algebra',['../../group__lib__algebra.html',1,'']]],
+  ['lib_5falgebra_20common_34466',['lib_algebra Common',['../../group__lib__algebra__common.html',1,'']]],
+  ['lib_5fdiscretization_34467',['lib_discretization',['../../group__lib__discretization.html',1,'']]],
+  ['lib_5fgrid_34468',['lib_grid',['../../group__lib__grid.html',1,'']]],
+  ['lib_5fgrid_5fparallelization_34469',['Lib_grid_parallelization',['../../group__lib__grid__parallelization.html',1,'']]],
+  ['lib_5fgrid_5fparallelization_5fdistribution_34470',['Lib_grid_parallelization_distribution',['../../group__lib__grid__parallelization__distribution.html',1,'']]],
+  ['lib_5fgrid_5fparallelization_5frefinement_34471',['Lib_grid_parallelization_refinement',['../../group__lib__grid__parallelization__refinement.html',1,'']]],
+  ['libgrid_20bridge_34472',['libGrid Bridge',['../../group__libgrid__bridge.html',1,'']]],
+  ['load_20balancing_20bridge_34473',['Load Balancing Bridge',['../../group__loadbalance__bridge.html',1,'']]],
+  ['local_20finite_20elements_34474',['Local Finite Elements',['../../group__lib__disc__local__finite__elements.html',1,'']]],
+  ['log_20util_34475',['log util',['../../group__lib__grid__algorithms__log__util.html',1,'']]],
+  ['lua_20shell_34476',['Lua Shell',['../group__lua__shell.html',1,'']]]
 ];

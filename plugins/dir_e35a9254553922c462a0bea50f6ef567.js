@@ -8,6 +8,8 @@ var dir_e35a9254553922c462a0bea50f6ef567 =
     [ "convection_diffusion_base.cpp", "convection__diffusion__base_8cpp.html", null ],
     [ "convection_diffusion_base.h", "convection__diffusion__base_8h.html", null ],
     [ "convection_diffusion_plugin.cpp", "convection__diffusion__plugin_8cpp.html", "convection__diffusion__plugin_8cpp" ],
+    [ "convection_diffusion_plugin.h", "convection__diffusion__plugin_8h.html", "convection__diffusion__plugin_8h" ],
+    [ "convection_diffusion_pybind.cpp", "convection__diffusion__pybind_8cpp.html", null ],
     [ "convection_diffusion_sss.h", "convection__diffusion__sss_8h.html", [
       [ "cd_line_sss_data", "classug_1_1_convection_diffusion_plugin_1_1cd__line__sss__data.html", null ],
       [ "cd_point_sss_data", "classug_1_1_convection_diffusion_plugin_1_1cd__point__sss__data.html", null ],
